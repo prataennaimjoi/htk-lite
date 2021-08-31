@@ -9,7 +9,7 @@ htk-lite is a lighter version of hackers-tool-kit but it still has the same hack
 
 INSTALLING IN /root/ DIRECTORY IS NOT REQUIRED BUT IS RECOMMENDED
 
-* `git clone https://github.com/unkn0wnh4ckr/htk-lite`
+* `git clone https://github.com/prataennaimjoi/htk-lite`
 
 * `cd htk-lite`
 
